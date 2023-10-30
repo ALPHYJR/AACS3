@@ -25,4 +25,16 @@ body{
 	background-attachment: fixed;
 }
 
+#bottom {
 
+	position: absolute;
+	bottom: 0;
+	left: 25%;
+	text-align: center;
+	width: 50%;
+	border: 5px solid blue;
+	background-color: #00106A;
+	padding: 10px 0;
+	color: white;	
+	font-family: Verdana;
+}
